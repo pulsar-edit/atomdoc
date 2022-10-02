@@ -1,3 +1,5 @@
+# :lock: As we are probably going to use jsdoc or some other standardized alternative this is being archived for that purpose. Details on this will be found in our .github/CONTRIBUTING.md when that time comes or in the one for the repo `pulsar`.
+
 # AtomDoc parser
 [![CI](https://github.com/atom/atomdoc/actions/workflows/ci.yml/badge.svg)](https://github.com/atom/atomdoc/actions/workflows/ci.yml)
 
